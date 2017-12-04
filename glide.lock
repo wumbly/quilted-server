@@ -1,0 +1,8 @@
+hash: 28ba5f8796597ee276f3a824f113578ef6dbfb6e459c5b1ab601bfa5c80f71f4
+updated: 2017-12-03T22:08:34.918554757-06:00
+imports:
+- name: github.com/gorilla/websocket
+  version: ea4d1f681babbce9545c9c5f3d5194a789c89f5b
+- name: gopkg.in/mgo.v2
+  version: 3f83fa5005286a7fe593b055f0d7771a7dce4655
+testImports: []
